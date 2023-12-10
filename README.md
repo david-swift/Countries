@@ -1,3 +1,6 @@
+> [!NOTE]
+> This project is no longer maintained due to the deprecation of [GraphQLKit](https://github.com/david-swift/GraphQLKit).
+
 <p align="center">
   <img width="256" alt="Countries Icon" src="Icons/Icon.png">
   <h1 align="center">Countries</h1>
